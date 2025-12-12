@@ -12,3 +12,4 @@ langchain-qdrant
 qdrant-client
 supabase
 requests
+psycopg2-binary
