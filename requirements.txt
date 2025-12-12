@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain-groq
+langchain-core
+langchain
+langchain-community
+langchain-text-splitters
+tiktoken
+langchain-openai
+langchain-qdrant
+qdrant-client
+supabase-py
