@@ -10,5 +10,5 @@ tiktoken
 langchain-openai
 langchain-qdrant
 qdrant-client
-supabase-py
+supabase
 requests
