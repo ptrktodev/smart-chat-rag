@@ -13,3 +13,4 @@ qdrant-client
 supabase
 requests
 psycopg2-binary
+pypdf
