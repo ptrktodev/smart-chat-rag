@@ -179,10 +179,6 @@ def main():
         background-color: #fa5151ff;
         color: white;
     }
-    [data-testid="stSidebar"] {
-        min-width: 340px;
-        max-width: 340px;
-    }
     </style>
     """, unsafe_allow_html=True)
 
